@@ -38,9 +38,9 @@ User Profile & Settings (In Progress)
 📐 Design Philosophy
 StudioFlow is intentionally:
     • Not bloated
-    • Not subscription-driven
+    • Not Overpriced
     • Not trying to be everything
-    • Not going to EVERY display any kind of advertising in the App
+    • Not going to EVER display any kind of advertising in the App
 Instead, it focuses on:
 «Helping small operators run their workflow without fighting their software.»
 
