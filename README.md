@@ -33,19 +33,19 @@ Manage project-level tasks
 Lightweight structure without unnecessary complexity
 
 **User Profile & Settings (In Progress)**
-
+**
 Editable user profile
 App configuration and preferences
-Preparing for future multi-role support
+Preparing for future multi-role support**
 
 
 ## **🛠 Built With**
-
+**
 Java (Android)
 Firebase Realtime Database
 Firebase Storage
 Firebase Authentication
-Material UI Components
+Material UI Components**
 
 Designed originally in Sketchware, now being transitioned into Android Studio for full control and scalability.
 
@@ -64,13 +64,13 @@ Instead, it focuses on:
 
 ## **🔒 Data Structure (Current Direction)**
 Each user owns their own data namespace:
-
+**
 uid/
 ├── userProfile/
 ├── clients/
 ├── projects/
 ├── invoices/
-└── appSettings/
+└── appSettings/**
 
 This ensures:
 
@@ -91,8 +91,8 @@ The goal right now is stability first, polish second.
 
 📌 Roadmap (Planned)
 Target: Beta — Mid 2026
-UI consistency pass
-Closed beta release
+-UI consistency pass
+-Closed beta release
 
 
 **Contributing / Testing**
@@ -102,17 +102,16 @@ If you're interested in testing or providing feedback, visit our GitHub Discussi
 **📬 Contact & Follow Along**
 
 🌐[ Website: webfurious.github.io](url)
-🐦 Twitter: @Webfurious_Des
-      Bluesky: @webfurious-designs.bsky.social
-📘 Facebook: WebFurious
-📧 Email: webfuriousdesigns@gmail.com
+Twitter: @Webfurious_Des
+Bluesky: @webfurious-designs.bsky.social
+Facebook: WebFurious
+Email: webfuriousdesigns@gmail.com
 
-
- Why This Exists
+**Why This Exists**
 StudioFlow is being built from the ground up to solve a real problem: modern tools are either too expensive, too complex, or too disconnected from how freelancers actually work.
 This app is about reclaiming that middle ground.
 
-📄 License
+**📄 License**
 Currently private during development. Licensing will be determined before public release.
 
 More updates coming as development continues.
