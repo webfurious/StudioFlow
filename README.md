@@ -124,7 +124,8 @@ If you're interested in testing or providing feedback, visit our GitHub Discussi
 🌐 Website: [webfurious.github.io](https://webfurious.github.io)  
 🐦 Twitter: [@Webfurious_Des](https://twitter.com/Webfurious_Des)  
 🦋 Bluesky: [@webfurious-designs.bsky.social](https://bsky.app/profile/webfurious-designs.bsky.social)  
-📘 Facebook: [WebFurious](https://facebook.com/WebFurious)  
+📘 Facebook: [WebFurious](https://www.facebook.com/share/1DnqJM4wCC/)
+🌐 Github: [github.com/webfurious/StudioFlow](https://github.com/webfurious/StudioFlow)  
 📧 Email: webfuriousdesigns@gmail.com
 
 ## 🧠 Why This Exists
