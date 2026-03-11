@@ -6,9 +6,10 @@ StudioFlow is different.
 StudioFlow is a lightweight business management app designed for freelancers, creatives, and small studios who need a simple way to manage clients, projects, invoices, and tasks — without the complexity of enterprise tools.
 
 Built with a focus on clarity, speed, and real-world usability, especially for solo operators who just need things to work.
-
-![StudioFlow Dashboard Preview](https://webfurious.github.io/screenshots/Screenshot_4.jpg)  
-*(Early mockups of the dashboard, invoice screen, and client list )*
+  
+<p align="center">
+  <img src="your-image.png" width="300" />
+</p>
 
 ## Table of Contents
 
