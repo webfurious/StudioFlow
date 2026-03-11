@@ -8,7 +8,10 @@ StudioFlow is a lightweight business management app designed for freelancers, cr
 Built with a focus on clarity, speed, and real-world usability, especially for solo operators who just need things to work.
   
 <p align="center">
-  <img src="https://webfurious.github.io/screenshots/Screenshot_3.jpg" width="300" />
+  <img src="https://webfurious.github.io/screenshots/Screenshot_3.jpg" width="200" />
+  <img src="https://webfurious.github.io/screenshots/Screenshot_4.jpg" width="200" />
+  <img src="https://webfurious.github.io/screenshots/Screenshot_5.jpg" width="200" />
+  <img src="https://webfurious.github.io/screenshots/Screenshot_6.jpg" width="200" />
 </p>
 
 ## Table of Contents
